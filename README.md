@@ -2,7 +2,7 @@
 This is a simple implementation of the classic game Tic Tac Toe using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid until one player wins or the game ends in a draw.
 
 ## Demo
-You can try out the game by visiting the "[live demo.]""(https://ankitjha13.github.io/Tic-Tac-Toe-/)"
+You can try out the game by visiting the https://ankitjha13.github.io/Tic-Tac-Toe-/
 
 # How to Play
 - The game is played on a 3x3 grid. Each cell represents a position on the board.

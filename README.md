@@ -6,21 +6,17 @@ You can try out the game by visiting the https://ankitjha13.github.io/Tic-Tac-To
 
 # How to Play
 - The game is played on a 3x3 grid. Each cell represents a position on the board.
-
 - The game starts with Player 1 (X) making the first move.
-
 - Players take turns alternately, marking an empty cell with their respective symbol (X or O).
-
 - The objective is to get three of your marks (X or O) in a row, either horizontally, vertically, or diagonally.
-
 - If all cells are filled and no player has achieved a winning combination, the game ends in a draw.
-
 - To restart the game, simply refresh the page.
 
 # Technologies Used
 - HTML
 - CSS
 - JavaScript
+  
 
 # Project Structure 
 index.html: The main HTML file that defines the structure of the game.
